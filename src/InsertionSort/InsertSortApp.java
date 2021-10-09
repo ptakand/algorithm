@@ -2,7 +2,7 @@ package InsertionSort;
 
 public class InsertSortApp {
     public static void main(String[] args) {
-        int maxSize = 100;
+        int maxSize = 10;
         // creating an array
         ArrayIns arr = new ArrayIns(maxSize);
 
